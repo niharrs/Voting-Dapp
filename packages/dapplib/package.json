@@ -46,7 +46,7 @@
         "truffle": "^5.1.19",
         "wait-on": "^4.0.1",
         "webpack": "^4.42.1",
-        "webpack-cli": "^3.3.11",
+        "webpack-cli": "^3.3.12",
         "web3": "1.2.6"
     }
 }
